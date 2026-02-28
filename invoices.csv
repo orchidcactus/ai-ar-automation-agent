@@ -1,0 +1,4 @@
+customer,amount,days_overdue,last_contact,payment_history
+ABC Supplies,54000,42,15,poor
+Sunrise Retail,12000,5,0,good
+Metro Traders,31000,18,10,average
